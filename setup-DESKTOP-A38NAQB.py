@@ -7,13 +7,13 @@ with open("README.md", "r", encoding='utf-8') as fh:
 
 setuptools.setup(
     name="fastwork",
-    version="0.0.4",
+    version="0.0.2",
     author="soaringsoul",
     author_email="951683309@qq.com",
     description="an useful tool for ending your boring work",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/xugongli/fastwork.git",
+    url="https://github.com/xugongli/end_boring_work.git",
     packages=setuptools.find_packages(),
     classifiers=[
         'Development Status :: 4 - Beta',
