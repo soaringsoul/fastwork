@@ -1,13 +1,20 @@
-styleframe
-==========
+.. fastwork documentation master file, created by
+   sphinx-quickstart on Wed Aug 12 10:29:04 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-A library that wraps pandas and openpyxl and allows easy styling of dataframes in excel.
-
-Contents:
+Welcome to fastwork's documentation!
+====================================
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
-   installation
-   usage_examples
-   api_documentation
-   commandline_interface
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
