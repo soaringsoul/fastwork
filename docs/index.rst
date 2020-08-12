@@ -1,20 +1,20 @@
-.. fastwork documentation master file, created by
-   sphinx-quickstart on Wed Aug 12 10:29:04 2020.
+.. python3-cookbook documentation master file, created by
+   sphinx-quickstart on Tue Aug 19 03:21:45 2014.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to fastwork's documentation!
-====================================
+================================================
+Python Cookbook 3rd Edition Documentation
+================================================
+
+Contents:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   :glob:
+   
+   copyright
+   preface
+   chapters/*
+   aboutme
+   roadmap
